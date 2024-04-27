@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@asseinfo/react-kanban": "^2.2.0",
+    "rodal": "^2.1.0"
+  }
+}
