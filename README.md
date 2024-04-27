@@ -18,7 +18,7 @@ To deploy this project run
 Navigate to the Project directory 
 
 ```bash
-  cd SIH
+  cd Nyayasetu
 ```
 
 ```bash
