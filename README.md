@@ -2,7 +2,7 @@
 # NyayaSetu: न्याय सर्वार्थे, त्वरितं सुलभं च
 
 India's decentralized legal system and complex paperwork make it difficult for individuals, small businesses as well as Lawyers. 
-Every year more than 60-70K lawyers graduate and the rate keeps on increasing year by year surpassing the available positions in the law firm out of which only 10% make  sustainable living and the remaining tend to seek alternative employment.
+Every year more than 60-70K lawyers graduate and the rate keeps on increasing year by year surpassing the available positions in the law firm out of which only 10% make a  sustainable living and the remaining tend to seek alternative employment.
 This imbalance creates a lack of legal aid and advice especially for unreserved portions of the population that are in urgent need but also exaggerates the inefficiencies in the Indian Judiciary. 
 Moreover, forming a cycle of delayed justice compounded by high costs and limited accessibility discourages individuals and small businesses from seeking legal remedies.
 
