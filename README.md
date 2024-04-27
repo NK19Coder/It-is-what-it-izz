@@ -13,9 +13,13 @@ Moreover, forming a cycle of delayed justice compounded by high costs and limite
 To deploy this project run
 
 ```bash
-  clone the project using the command git clone "https://github.com/NK19Coder/Nyayasetu.git"
+  clone the project using the command git clone "https://github.com/NK19Coder/It-is-what-it-izz.git" 
 ```
 Navigate to the Project directory 
+
+```bash
+  cd SIH
+```
 
 ```bash
   cd frontend
